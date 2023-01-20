@@ -5,7 +5,7 @@ Engine V0 UNRELEASED
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-* Purpose: This was made for Chromebooks specifically to bypass both GoGuardian or any other website extention that bloks websites and internet blockers
+* Purpose: This was made for Chromebooks specifically to bypass both GoGuardian or any other website extention that blocks websites and internet blockers
 
 * How to use: Use the VPN Installer file to install the desktop-master file. Then open the built in website.
 
