@@ -1,4 +1,4 @@
-import requests, sys, webbrowser, bs4, os, time
+import requests, sys, webbrowser, os, time
 
 
 
